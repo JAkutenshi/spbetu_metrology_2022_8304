@@ -1,0 +1,88 @@
+
+
+Statistics for module output.lxm
+=====================================
+The number of different operators     : 17
+The number of different operands      : 16
+The total number of operators         : 61
+The total number of operands          : 50
+
+Dictionary                   (  D)    : 33
+Length                       (  N)    : 111
+Length estimation            ( ^N)    : 133.487
+Volume                       (  V)    : 559.928
+Potential volume             ( *V)    : 15.5098
+Limit volume                 (**V)    : 25.8496
+Programming level            (  L)    : 0.0276996
+Programming level estimation ( ^L)    : 0.0376471
+Intellect                    (  I)    : 21.0796
+Time of programming          (  T)    : 1123.02
+Time estimation              ( ^T)    : 993.674
+Programming language level   (lambda) : 0.429615
+Work on programming          (  E)    : 20214.3
+Error                        (  B)    : 0.247353
+Error estimation             ( ^B)    : 0.186643
+
+
+Table:
+====================================
+Operators:
+|  1	|  5	| ()
+|  2	|  2	| *
+|  3	|  3	| +
+|  4	|  10	| ,
+|  5	|  2	| -
+|  6	|  4	| /
+|  7	|  1	| <
+|  8	|  12	| =
+|  9	|  1	| >=
+|  10	|  2	| _&
+|  11	|  5	| _*
+|  12	|  5	| _-
+|  13	|  3	| __*
+|  14	|  1	| fabs
+|  15	|  2	| func
+|  16	|  2	| if
+|  17	|  1	| log
+Operands:
+|  1	|  1	| 0.0
+|  2	|  1	| 0.8858
+|  3	|  1	| 1.0E-4
+|  4	|  1	| 18.19
+|  5	|  1	| 23180.0
+|  6	|  1	| 4.60517
+|  7	|  2	| a
+|  8	|  3	| b
+|  9	|  3	| c
+|  10	|  9	| dfx
+|  11	|  3	| dx
+|  12	|  5	| fx
+|  13	|  2	| logp
+|  14	|  4	| tol
+|  15	|  10	| x
+|  16	|  3	| x1
+
+
+Summary: 
+=====================================
+The number of different operators     : 17
+The number of different operands      : 16
+The total number of operators         : 61
+The total number of operands          : 50
+
+Dictionary                   (  D)    : 33
+Length                       (  N)    : 111
+Length estimation            ( ^N)    : 133.487
+Volume                       (  V)    : 559.928
+Potential volume             ( *V)    : 15.5098
+Limit volume                 (**V)    : 25.8496
+Programming level            (  L)    : 0.0276996
+Programming level estimation ( ^L)    : 0.0376471
+Intellect                    (  I)    : 21.0796
+Time of programming          (  T)    : 1123.02
+Time estimation              ( ^T)    : 993.674
+Programming language level   (lambda) : 0.429615
+Work on programming          (  E)    : 20214.3
+Error                        (  B)    : 0.247353
+Error estimation             ( ^B)    : 0.186643
+

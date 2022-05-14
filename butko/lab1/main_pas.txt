@@ -1,0 +1,105 @@
+
+
+Statistics for module output2.lxm
+=====================================
+The number of different operators     : 24
+The number of different operands      : 26
+The total number of operators         : 106
+The total number of operands          : 70
+
+Dictionary                   (  D)    : 50
+Length                       (  N)    : 176
+Length estimation            ( ^N)    : 232.251
+Volume                       (  V)    : 993.319
+Potential volume             ( *V)    : 15.5098
+Limit volume                 (**V)    : 25.8496
+Programming level            (  L)    : 0.0156141
+Programming level estimation ( ^L)    : 0.0309524
+Intellect                    (  I)    : 30.7456
+Time of programming          (  T)    : 3534.27
+Time estimation              ( ^T)    : 2352.7
+Programming language level   (lambda) : 0.242171
+Work on programming          (  E)    : 63616.8
+Error                        (  B)    : 0.531202
+Error estimation             ( ^B)    : 0.331106
+
+
+Table:
+====================================
+Operators:
+|  1	|  10	| ()
+|  2	|  3	| *
+|  3	|  3	| +
+|  4	|  7	| -
+|  5	|  4	| /
+|  6	|  36	| ;
+|  7	|  1	| <
+|  8	|  1	| <=
+|  9	|  14	| =
+|  10	|  1	| >=
+|  11	|  3	| abs
+|  12	|  2	| boolean
+|  13	|  2	| const
+|  14	|  2	| func
+|  15	|  2	| if
+|  16	|  1	| ln
+|  17	|  1	| newton
+|  18	|  2	| procedure
+|  19	|  1	| program
+|  20	|  1	| readln
+|  21	|  5	| real
+|  22	|  1	| repeat
+|  23	|  1	| write
+|  24	|  2	| writeln
+Operands:
+|  1	|  1	| ',dfx='
+|  2	|  1	| ',fx='
+|  3	|  1	| 'First guess (999. to exit): '
+|  4	|  1	| 'x='
+|  5	|  1	| 0.0
+|  6	|  1	| 0.8858
+|  7	|  1	| 1.0E-4
+|  8	|  1	| 18.19
+|  9	|  1	| 23180.0
+|  10	|  1	| 4.60517
+|  11	|  1	| 999
+|  12	|  2	| a
+|  13	|  2	| alldone
+|  14	|  3	| b
+|  15	|  3	| c
+|  16	|  10	| dfx
+|  17	|  4	| dx
+|  18	|  1	| error
+|  19	|  1	| false
+|  20	|  6	| fx
+|  21	|  2	| logp
+|  22	|  1	| newdr
+|  23	|  5	| tol
+|  24	|  14	| x
+|  25	|  4	| x1
+|  26	|  1	| x2
+
+
+Summary: 
+=====================================
+The number of different operators     : 24
+The number of different operands      : 26
+The total number of operators         : 106
+The total number of operands          : 70
+
+Dictionary                   (  D)    : 50
+Length                       (  N)    : 176
+Length estimation            ( ^N)    : 232.251
+Volume                       (  V)    : 993.319
+Potential volume             ( *V)    : 15.5098
+Limit volume                 (**V)    : 25.8496
+Programming level            (  L)    : 0.0156141
+Programming level estimation ( ^L)    : 0.0309524
+Intellect                    (  I)    : 30.7456
+Time of programming          (  T)    : 3534.27
+Time estimation              ( ^T)    : 2352.7
+Programming language level   (lambda) : 0.242171
+Work on programming          (  E)    : 63616.8
+Error                        (  B)    : 0.531202
+Error estimation             ( ^B)    : 0.331106
+
